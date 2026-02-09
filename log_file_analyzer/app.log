@@ -1,0 +1,15 @@
+2024-10-01 09:00:01 INFO Application started
+2024-10-01 09:01:12 INFO User login success user_id=101
+2024-10-01 09:02:45 WARNING Disk usage at 85%
+2024-10-01 09:03:10 INFO User login success user_id=102
+2024-10-01 09:04:55 ERROR Database connection failed
+2024-10-01 09:05:30 ERROR Database connection failed
+2024-10-01 09:06:14 INFO User logout user_id=101
+2024-10-01 09:07:02 WARNING Memory usage high
+2024-10-01 09:08:19 INFO User login success user_id=103
+2024-10-01 09:09:41 ERROR Timeout while calling external API
+2024-10-01 09:10:05 INFO Health check passed
+2024-10-01 09:11:22 WARNING Disk usage at 90%
+2024-10-01 09:12:58 INFO User logout user_id=102
+2024-10-01 09:13:44 ERROR Database connection failed
+2024-10-01 09:14:33 INFO Application shutdown initiated
