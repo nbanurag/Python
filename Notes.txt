@@ -1,0 +1,4 @@
+Encapsulation:
+- self.__ restrict the child class to use parent class variable inside child class
+- So developer generally use self._ variable name
+- in both case encapsulated variable can't be access directly with instance of any class (exception instance._variable can be accessed but this is not correct)
