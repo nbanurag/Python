@@ -59,7 +59,7 @@ accountInstance = None  # ✅ IMPORTANT
 while True:
     print("\n1. Create account\n2. Deposit\n3. Withdraw\n4. Show balance\n5. Exit\n")
     option = input("Please choose option number: ")
-
+    print('mainnn', __name__)
     match option:
         case '1':
             name = input("Please enter name: ")
